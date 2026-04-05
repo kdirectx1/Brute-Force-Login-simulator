@@ -19,7 +19,7 @@ This project simulates a brute force attack against a login system using PowerSh
 
 ---
 
-## ⚡ How to Run
+## How to Run
 1. Open PowerShell
 2. Navigate to the project folder
 3. Run:
